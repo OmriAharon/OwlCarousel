@@ -1,0 +1,10 @@
+{
+  "name": "oaOwlCarousel",
+  "version": "2.3.0",
+  "location": "https://github.com/OmriAharon/OwlCarousel",
+  "main": [
+    "owl-carousel/owl.carousel.min.js",
+    "owl-carousel/owl.carousel.css"
+  ],
+  "description": "Owl carousel, with bower.json!"
+}
