@@ -4,7 +4,8 @@
   "location": "https://github.com/OmriAharon/OwlCarousel",
   "main": [
     "owl-carousel/owl.carousel.min.js",
-    "owl-carousel/owl.carousel.css"
+    "owl-carousel/owl.carousel.css",
+    "owl-carousel/owl.theme.css"
   ],
   "description": "Owl carousel, with bower.json!"
 }
